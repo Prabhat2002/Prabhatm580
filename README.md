@@ -42,7 +42,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/himanshukaushal123/github-readme-streak-stats">
+    <a href="https://github.com/prabhat2002/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukaushal123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -50,8 +50,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/himanshukaushal123/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=himanshukaushal123&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/himanshukaushal123/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukaushal123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/prabhat2002/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prabhat2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/prabhat2002/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/himanshukaushal123/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=himanshukaushal123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/prabhat2002/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prabhat2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -67,15 +67,15 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/himanshu-kaushal-60952019b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Himansh04447809"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/himanshu_kaushal123/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<a href = "https://www.linkedin.com/in/prabhat-mishra-71265a1b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Prabhat11696146"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/pm_iiits/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.youtube.com/channel/UCEzAqmgrah530ZldtQ1TN3g"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=himanshukaushal123">
+    <img src="https://komarev.com/ghpvc/?username=prabhat2002">
 </a>
-<a href="https://github.com/himanshukaushal123?tab=followers"><img src="https://img.shields.io/github/followers/himanshukaushal123?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/prabhat2002?tab=followers"><img src="https://img.shields.io/github/followers/prabhat2002?label=Followers&style=social" alt="GitHub Badge"></a>
