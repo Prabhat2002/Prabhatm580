@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prabhatm580@gmail.com**
 
-- ⚡ Fun fact **I listen music and watch cricket.**
+- ⚡ Hobbies **I love listen music and watch cricket.**
 
 ## 🚀 Languages and Tools:
 
@@ -43,7 +43,7 @@
 
 <p align="center">
     <a href="https://github.com/prabhat2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshukaushal123&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
